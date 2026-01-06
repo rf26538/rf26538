@@ -3,7 +3,7 @@ Hi 👋, I'm Rehan Fazal<br>A passionate Software Engineer || MERN Stack Enginee
 Email Me 👉 ✉️ rf26538@gmail.com<br>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rehan-fazal003) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rf26538) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rf26538) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rf26538) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MadMaxXD000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rf26538@gmail.com) 
 
 # 💻 Tech Stack:
