@@ -13,17 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: rf26538
 
-      - name: Commit & push
+      - name: Commit and Push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add .
-          git commit -m "Update profile summary cards" || exit 0
-          git push
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git add profile-summary-card-output
+          git commit -m "Update profile summary cards" || echo "No changes"
+          git push origin HEAD:main
