@@ -1,6 +1,13 @@
 # 💫 About Me:
 Hi 👋, I'm Rehan Fazal<br>A passionate Software Engineer || MERN Stack Engineer from India.
 Email Me 👉 ✉️ rf26538@gmail.com<br>
+![Profile Views](https://komarev.com/ghpvc/?username=rf26538&style=flat-square)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-darkgreen)
 
 
 ## 🌐 Socials:
