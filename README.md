@@ -19,4 +19,4 @@ Email Me 👉 ✉️ rf26538@gmail.com<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=rf26538&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/rf26538/rf26538/blob/output/github-snake-dark.svg)
